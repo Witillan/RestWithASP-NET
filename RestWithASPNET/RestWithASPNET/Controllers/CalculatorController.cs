@@ -10,8 +10,8 @@ namespace RestWithASPNET.Controllers
     [ApiController]
     public class CalculatorController : Controller
     {
-        // GET api/calculator/5/5   
-        [HttpGet("{firtNumber}/{secundNumber}")]
+        // GET api/calculator/sum/5/5   
+        [HttpGet("sum/{firtNumber}/{secundNumber}")]
         public ActionResult Sum(string firstNumber, string secundNumber)
         {
             if (IsNumeric(firstNumber) && IsNumeric(secundNumber))
@@ -31,7 +31,7 @@ namespace RestWithASPNET.Controllers
             return 0;
         }
 
-        private bool IsNumeric(object strNumber)
+        private bool IsNumeric(string strNumber)
         {
             bool isNumber = double.TryParse(strNumber, System.Globalization.NumberStyles.Any, System.Globalization.NumberFormatInfo.InvariantInfo, out double number);
             return isNumber;
