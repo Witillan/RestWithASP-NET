@@ -81,19 +81,21 @@ namespace RestWithASPNET.Controllers
             }
             return BadRequest("Invalid Input");
         }
-
+        //Convertendo para decimal
         private decimal CovertToDecimal(string number)
         {
-            if (decimal.TryParse(number, out decimal decimalValue))
+            decimal decimalValue;
+            if (decimal.TryParse(number, out decimalValue))
             {
                 return decimalValue;
             }
             return 0;
         }
-
+        //Verificando se é numerico
         private bool IsNumeric(string strNumber)
         {
-            bool isNumber = double.TryParse(strNumber, System.Globalization.NumberStyles.Any, System.Globalization.NumberFormatInfo.InvariantInfo, out double number);
+            double number;
+            bool isNumber = double.TryParse(strNumber, System.Globalization.NumberStyles.Any, System.Globalization.NumberFormatInfo.InvariantInfo, out number);
             return isNumber;
         }
     }
