@@ -22,6 +22,66 @@ namespace RestWithASPNET.Controllers
             return BadRequest("Invalid Input");
         }
 
+        // GET api/calculator/subtraction/5/5   
+        [HttpGet("subtraction/{firtNumber}/{secundNumber}")]
+        public ActionResult Subtraction(string firstNumber, string secundNumber)
+        {
+            if (IsNumeric(firstNumber) && IsNumeric(secundNumber))
+            {
+                var subtraction = CovertToDecimal(firstNumber) - CovertToDecimal(secundNumber);
+                return Ok(subtraction.ToString());
+            }
+            return BadRequest("Invalid Input");
+        }
+
+        // GET api/calculator/division/5/5   
+        [HttpGet("division/{firtNumber}/{secundNumber}")]
+        public ActionResult Division(string firstNumber, string secundNumber)
+        {
+            if (IsNumeric(firstNumber) && IsNumeric(secundNumber))
+            {
+                var division = CovertToDecimal(firstNumber) / CovertToDecimal(secundNumber);
+                return Ok(division.ToString());
+            }
+            return BadRequest("Invalid Input");
+        }
+
+        // GET api/calculator/multiplication/5/5   
+        [HttpGet("multiplication/{firtNumber}/{secundNumber}")]
+        public ActionResult Multiplication(string firstNumber, string secundNumber)
+        {
+            if (IsNumeric(firstNumber) && IsNumeric(secundNumber))
+            {
+                var multiplication = CovertToDecimal(firstNumber) * CovertToDecimal(secundNumber);
+                return Ok(multiplication.ToString());
+            }
+            return BadRequest("Invalid Input");
+        }
+
+        // GET api/calculator/mean/5/5   
+        [HttpGet("mean/{firtNumber}/{secundNumber}")]
+        public ActionResult Mean(string firstNumber, string secundNumber)
+        {
+            if (IsNumeric(firstNumber) && IsNumeric(secundNumber))
+            {
+                var mean = (CovertToDecimal(firstNumber) + CovertToDecimal(secundNumber)) / 2;
+                return Ok(mean.ToString());
+            }
+            return BadRequest("Invalid Input");
+        }
+
+        // GET api/calculator/square-root/5   
+        [HttpGet("square-root/{number}")]
+        public ActionResult SquareRoot(string number)
+        {
+            if (IsNumeric(number))
+            {
+                var squareRoot  = Math.Sqrt((double)CovertToDecimal(number));
+                return Ok(squareRoot.ToString());
+            }
+            return BadRequest("Invalid Input");
+        }
+
         private decimal CovertToDecimal(string number)
         {
             if (decimal.TryParse(number, out decimal decimalValue))
