@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wsifr\\OneDrive\\Área de Trabalho\\Arquivos\\Witillan\\Projeto\\RestWithASP-NET\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj": {}
+    "D:\\Users\\Developer02\\Documents\\Udemy\\RestWithASP-NET\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wsifr\\OneDrive\\Área de Trabalho\\Arquivos\\Witillan\\Projeto\\RestWithASP-NET\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj": {
+    "D:\\Users\\Developer02\\Documents\\Udemy\\RestWithASP-NET\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wsifr\\OneDrive\\Área de Trabalho\\Arquivos\\Witillan\\Projeto\\RestWithASP-NET\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj",
+        "projectUniqueName": "D:\\Users\\Developer02\\Documents\\Udemy\\RestWithASP-NET\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj",
         "projectName": "RestWithASPNET",
-        "projectPath": "C:\\Users\\wsifr\\OneDrive\\Área de Trabalho\\Arquivos\\Witillan\\Projeto\\RestWithASP-NET\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj",
-        "packagesPath": "C:\\Users\\wsifr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wsifr\\OneDrive\\Área de Trabalho\\Arquivos\\Witillan\\Projeto\\RestWithASP-NET\\RestWithASPNET\\RestWithASPNET\\obj\\",
+        "projectPath": "D:\\Users\\Developer02\\Documents\\Udemy\\RestWithASP-NET\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj",
+        "packagesPath": "D:\\Users\\Developer02\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Developer02\\Documents\\Udemy\\RestWithASP-NET\\RestWithASPNET\\RestWithASPNET\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\wsifr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "D:\\Users\\Developer02\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

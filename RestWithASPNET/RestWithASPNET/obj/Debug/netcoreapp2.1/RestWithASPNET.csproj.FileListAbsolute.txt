@@ -16,3 +16,21 @@ C:\Users\wsifr\OneDrive\Área de Trabalho\Arquivos\Witillan\Projeto\RestWithASP-
 C:\Users\wsifr\OneDrive\Área de Trabalho\Arquivos\Witillan\Projeto\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.1\RestWithASPNET.dll
 C:\Users\wsifr\OneDrive\Área de Trabalho\Arquivos\Witillan\Projeto\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.1\RestWithASPNET.pdb
 C:\Users\wsifr\OneDrive\Área de Trabalho\Arquivos\Witillan\Projeto\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.1\RestWithASPNET.genruntimeconfig.cache
+D:\Users\Developer02\Documents\Udemy\RestWithASP-NET\RestWithASPNET\RestWithASPNET\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Users\Developer02\Documents\Udemy\RestWithASP-NET\RestWithASPNET\RestWithASPNET\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Users\Developer02\Documents\Udemy\RestWithASP-NET\RestWithASPNET\RestWithASPNET\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Users\Developer02\Documents\Udemy\RestWithASP-NET\RestWithASPNET\RestWithASPNET\bin\Debug\netcoreapp2.1\RestWithASPNET.deps.json
+D:\Users\Developer02\Documents\Udemy\RestWithASP-NET\RestWithASPNET\RestWithASPNET\bin\Debug\netcoreapp2.1\RestWithASPNET.runtimeconfig.json
+D:\Users\Developer02\Documents\Udemy\RestWithASP-NET\RestWithASPNET\RestWithASPNET\bin\Debug\netcoreapp2.1\RestWithASPNET.runtimeconfig.dev.json
+D:\Users\Developer02\Documents\Udemy\RestWithASP-NET\RestWithASPNET\RestWithASPNET\bin\Debug\netcoreapp2.1\RestWithASPNET.dll
+D:\Users\Developer02\Documents\Udemy\RestWithASP-NET\RestWithASPNET\RestWithASPNET\bin\Debug\netcoreapp2.1\RestWithASPNET.pdb
+D:\Users\Developer02\Documents\Udemy\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.1\RestWithASPNET.csprojAssemblyReference.cache
+D:\Users\Developer02\Documents\Udemy\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.1\RestWithASPNET.AssemblyInfoInputs.cache
+D:\Users\Developer02\Documents\Udemy\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.1\RestWithASPNET.AssemblyInfo.cs
+D:\Users\Developer02\Documents\Udemy\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.1\RestWithASPNET.csproj.CoreCompileInputs.cache
+D:\Users\Developer02\Documents\Udemy\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.1\RestWithASPNET.RazorAssemblyInfo.cache
+D:\Users\Developer02\Documents\Udemy\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.1\RestWithASPNET.RazorAssemblyInfo.cs
+D:\Users\Developer02\Documents\Udemy\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.1\RestWithASPNET.RazorTargetAssemblyInfo.cache
+D:\Users\Developer02\Documents\Udemy\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.1\RestWithASPNET.dll
+D:\Users\Developer02\Documents\Udemy\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.1\RestWithASPNET.pdb
+D:\Users\Developer02\Documents\Udemy\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.1\RestWithASPNET.genruntimeconfig.cache

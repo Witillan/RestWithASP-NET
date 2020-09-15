@@ -11,7 +11,7 @@ namespace RestWithASPNET.Controllers
     public class CalculatorController : Controller
     {
         // GET api/calculator/sum/5/5   
-        [HttpGet("sum/{firtNumber}/{secundNumber}")]
+        [HttpGet("sum/{firstNumber}/{secundNumber}")]
         public ActionResult Sum(string firstNumber, string secundNumber)
         {
             if (IsNumeric(firstNumber) && IsNumeric(secundNumber))
@@ -23,7 +23,7 @@ namespace RestWithASPNET.Controllers
         }
 
         // GET api/calculator/subtraction/5/5   
-        [HttpGet("subtraction/{firtNumber}/{secundNumber}")]
+        [HttpGet("subtraction/{firstNumber}/{secundNumber}")]
         public ActionResult Subtraction(string firstNumber, string secundNumber)
         {
             if (IsNumeric(firstNumber) && IsNumeric(secundNumber))
@@ -35,7 +35,7 @@ namespace RestWithASPNET.Controllers
         }
 
         // GET api/calculator/division/5/5   
-        [HttpGet("division/{firtNumber}/{secundNumber}")]
+        [HttpGet("division/{firstNumber}/{secundNumber}")]
         public ActionResult Division(string firstNumber, string secundNumber)
         {
             if (IsNumeric(firstNumber) && IsNumeric(secundNumber))
@@ -47,7 +47,7 @@ namespace RestWithASPNET.Controllers
         }
 
         // GET api/calculator/multiplication/5/5   
-        [HttpGet("multiplication/{firtNumber}/{secundNumber}")]
+        [HttpGet("multiplication/{firstNumber}/{secundNumber}")]
         public ActionResult Multiplication(string firstNumber, string secundNumber)
         {
             if (IsNumeric(firstNumber) && IsNumeric(secundNumber))
@@ -59,7 +59,7 @@ namespace RestWithASPNET.Controllers
         }
 
         // GET api/calculator/mean/5/5   
-        [HttpGet("mean/{firtNumber}/{secundNumber}")]
+        [HttpGet("mean/{firstNumber}/{secundNumber}")]
         public ActionResult Mean(string firstNumber, string secundNumber)
         {
             if (IsNumeric(firstNumber) && IsNumeric(secundNumber))
