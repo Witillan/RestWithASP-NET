@@ -27,7 +27,6 @@ D:\Users\Developer02\Documents\Udemy\RestWithASP-NET\RestWithASPNET\RestWithASPN
 D:\Users\Developer02\Documents\Udemy\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.1\RestWithASPNET.csprojAssemblyReference.cache
 D:\Users\Developer02\Documents\Udemy\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.1\RestWithASPNET.AssemblyInfoInputs.cache
 D:\Users\Developer02\Documents\Udemy\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.1\RestWithASPNET.AssemblyInfo.cs
-D:\Users\Developer02\Documents\Udemy\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.1\RestWithASPNET.csproj.CoreCompileInputs.cache
 D:\Users\Developer02\Documents\Udemy\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.1\RestWithASPNET.RazorAssemblyInfo.cache
 D:\Users\Developer02\Documents\Udemy\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.1\RestWithASPNET.RazorAssemblyInfo.cs
 D:\Users\Developer02\Documents\Udemy\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.1\RestWithASPNET.RazorTargetAssemblyInfo.cache
