@@ -9,7 +9,6 @@ C:\Users\wsifr\OneDrive\Área de Trabalho\Arquivos\Witillan\Projeto\RestWithASP-
 C:\Users\wsifr\OneDrive\Área de Trabalho\Arquivos\Witillan\Projeto\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.1\RestWithASPNET.csprojAssemblyReference.cache
 C:\Users\wsifr\OneDrive\Área de Trabalho\Arquivos\Witillan\Projeto\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.1\RestWithASPNET.AssemblyInfoInputs.cache
 C:\Users\wsifr\OneDrive\Área de Trabalho\Arquivos\Witillan\Projeto\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.1\RestWithASPNET.AssemblyInfo.cs
-C:\Users\wsifr\OneDrive\Área de Trabalho\Arquivos\Witillan\Projeto\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.1\RestWithASPNET.csproj.CoreCompileInputs.cache
 C:\Users\wsifr\OneDrive\Área de Trabalho\Arquivos\Witillan\Projeto\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.1\RestWithASPNET.RazorAssemblyInfo.cache
 C:\Users\wsifr\OneDrive\Área de Trabalho\Arquivos\Witillan\Projeto\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.1\RestWithASPNET.RazorAssemblyInfo.cs
 C:\Users\wsifr\OneDrive\Área de Trabalho\Arquivos\Witillan\Projeto\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.1\RestWithASPNET.RazorTargetAssemblyInfo.cache
@@ -33,3 +32,4 @@ D:\Users\Developer02\Documents\Udemy\RestWithASP-NET\RestWithASPNET\RestWithASPN
 D:\Users\Developer02\Documents\Udemy\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.1\RestWithASPNET.dll
 D:\Users\Developer02\Documents\Udemy\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.1\RestWithASPNET.pdb
 D:\Users\Developer02\Documents\Udemy\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.1\RestWithASPNET.genruntimeconfig.cache
+C:\Users\wsifr\OneDrive\Área de Trabalho\Arquivos\Witillan\Projeto\RestWithASP-NET\RestWithASPNET\RestWithASPNET\bin\Debug\netcoreapp2.1\Evolve.json

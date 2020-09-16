@@ -2,13 +2,14 @@
 using RestWithASPNET.Model;
 using System.Collections.Generic;
 using System.Threading;
+using RestWithASPNET.Model.Context;
 
 namespace RestWithASPNET.Business.Implementtations
 {
     public class PersonBusinessImpl : IPersonBusiness
     {
         private PersonRepositoryImpl _repository;
-        
+
         public PersonBusinessImpl(IPersonRepository repository)
         {
             _repository = (PersonRepositoryImpl)repository;
@@ -16,6 +17,16 @@ namespace RestWithASPNET.Business.Implementtations
 
         public Person Create(Person person)
         {
+            try
+            {
+                _context.Add(person);
+                _context.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+
             return _repository.Create(person);
         }
 
